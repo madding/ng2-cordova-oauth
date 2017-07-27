@@ -18,6 +18,7 @@
         "src/provider/google.ts",
         "src/provider/imgur.ts",
         "src/provider/instagram.ts",
+        "src/provider/twitter.ts",
         "src/provider/meetup.ts",
         "src/provider/spotify.ts",
         "src/provider/linkedin.ts",
